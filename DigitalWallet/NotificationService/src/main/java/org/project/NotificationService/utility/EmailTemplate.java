@@ -82,7 +82,7 @@ public class EmailTemplate {
             "        </div>\n" +
             "        <div class=\"footer\">\n" +
             "            <p>If you have any questions or need support, feel free to reach out to us at support@yourapp.com.</p>\n" +
-            "            <p>&copy; 2024 Your E-Wallet App. All rights reserved.</p>\n" +
+            "            <p>&copy; 2026 Your E-Wallet App. All rights reserved.</p>\n" +
             "        </div>\n" +
             "    </div>\n" +
             "</body>\n" +
